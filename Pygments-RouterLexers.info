@@ -1,4 +1,4 @@
-PRGNAM="Pygments"
+PRGNAM="Pygments-RouterLexers"
 VERSION="0.3.2"
 HOMEPAGE="https://github.com/nemith/pygments-routerlexers"
 DOWNLOAD="https://github.com/nemith/pygments-routerlexers/archive/master.zip"
