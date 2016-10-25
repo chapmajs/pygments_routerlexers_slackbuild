@@ -1,8 +1,10 @@
 #!/bin/sh
 
 # Slackware build script for Pygments-RouterLexers Plugin
+# SlackBuild source at https://github.com/chapmajs/pygments_routerlexers_slackbuild
+# See LICENSE included in the project root for licensing information
 
-# Copyright 2016 Jonathan Chapman <glitch@glitchwrks.com>
+# Copyright (c) 2016 Jonathan Chapman <glitch@glitchwrks.com>
 
 # Based off of Pygments SlackBuild:
 # Copyright 2009 Grissiom <chaos.proton@gmail.com>
